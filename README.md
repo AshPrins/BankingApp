@@ -1,4 +1,4 @@
-# BankingApp
+# Development
 Banking app tutorial for learning
 
 ## Code update
