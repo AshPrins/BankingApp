@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kSC3tziHmlgpTngNbrw/v9VrmMt9HZWfKOZlzvel6I1zDIxdQOE/ijT712S4qpbSQhcg9nD8/rNh4Xv+9cYrPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ash\\source\\repos\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ash\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.7\\microsoft.netcore.app.runtime.win-x64.6.0.7.nupkg.sha512",
+    "C:\\Users\\ash\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.7\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.7.nupkg.sha512",
+    "C:\\Users\\ash\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.7\\microsoft.aspnetcore.app.runtime.win-x64.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
